@@ -8,7 +8,7 @@
 
 ## About me
 
-I am working towards a career in cybersecurity and network engineering professional focused on 
+Cybersecurity and network engineering professional focused on 
 building hands-on skills across GRC, Security Operations, and network 
 infrastructure. This portfolio documents real lab work, configurations, 
 policy documents, and walkthroughs as I develop toward roles in SOC analysis, 
