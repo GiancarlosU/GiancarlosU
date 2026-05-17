@@ -43,7 +43,6 @@ Currently studying toward: **CCNA** | **CompTIA Network+**
 
 - [x] CompTIA Security+
 - [x] CompTIA A+
-- [x] TryHackMe — [https://tryhackme.com/p/giancarlos.u]
 
 ---
 
